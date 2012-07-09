@@ -7,3 +7,4 @@
 
 ## サイトマップ
 - [Gitのインストール方法](https://github.com/masaru-b-cl/niigata-scm/wiki/Gitのインストール方法)
+- [初期設定](https://github.com/masaru-b-cl/niigata-scm/wiki/初期設定)
